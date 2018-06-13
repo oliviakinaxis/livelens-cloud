@@ -4,7 +4,6 @@
   "description": "Live lens fulfillment webhook that communitcates with a local web app to get data from rapidresponse",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "author": "Olivia Perryman",
